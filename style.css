@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: viga;
+}
+.body{
+    background: white;
+    height: 637px;
+}
+.main{
+    background: rgb(255, 174, 201);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    
+}
+.main h2{
+    text-align: center;
+    
+}
+.button{
+    font-size: 20px;
+    width: 20px;
+    height: 35px;
+    margin: 2px;
+    padding: 20px;
+    border-radius: 5px;
+    
+
+}
+.btn-green{
+    background: rgb(208, 112, 158);
+    color: rgb(22, 0, 21);
+}
+.textarea{
+   font-size: 15px;
+    padding: 5px;
+    width: 190px;
+    border-radius: 10px;
+}
